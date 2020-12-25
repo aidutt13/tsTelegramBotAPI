@@ -6,7 +6,7 @@
   "main": "./dist/tgbotapi",
   "repository": "https://github.com/aidutt13/tsTelegramBotAPI.git",
   "author": "Wojciech Surdyk <aidutt13@protonmail.com>",
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "MIT",
   "private": false,
   "dependencies": {
     "axios": "^0.21.1"
