@@ -1,0 +1,21 @@
+{
+  "name": "ts-telegram-bot-api",
+  "version": "1.0.0",
+  "description": "A TypeScript implementation of Telegram Bot API",
+  "types": "./dist/tgbotapi.d.ts",
+  "main": "./dist/tgbotapi",
+  "repository": "https://github.com/aidutt13/tsTelegramBotAPI.git",
+  "author": "Wojciech Surdyk <aidutt13@protonmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  },
+  "scripts": {
+    "build": "npx tsc",
+    "dev": "npx tsc --watch"
+  }
+}
