@@ -1,6 +1,6 @@
 {
   "name": "ts-telegram-bot-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A TypeScript implementation of Telegram Bot API",
   "types": "./dist/tgbotapi.d.ts",
   "main": "./dist/tgbotapi",
