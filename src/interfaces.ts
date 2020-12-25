@@ -6,8 +6,6 @@ export interface DefaultTelegramAPIResponse<ResultType> {
     result?: ResultType
 }
 
-export type DefResponse<ResultType> = DefaultTelegramAPIResponse<ResultType>;
-
 export interface User {
     id: integer,
     isBot: boolean,
